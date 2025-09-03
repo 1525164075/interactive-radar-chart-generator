@@ -1,7 +1,7 @@
 # 交互式雷达图生成器 (Interactive Radar Chart Generator)
 
 [**Live Demo (在线演示)**](https://1525164075.github.io/interactive-radar-chart-generator/)
-![intro](assets\intro.png)
+![intro](assets/intro.png)
 
 这是一个基于 Web 的可视化工具，允许用户动态创建和自定义带有动画效果的雷达图（蜘蛛图）。您可以设置多达六个不同的属性，为每个属性分配数值，并调整图表的视觉表现，包括动画速度、颜色和标签位置。
 
